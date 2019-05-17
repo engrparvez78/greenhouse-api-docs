@@ -171,6 +171,7 @@ The timestamps below are Eastern Time.
 
 | Date                    | Description                                                                                                    |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------- |
+| May 17, 2019 5:00:00PM  | Added ability to set location on job posts via office and custom location id via [PATCH: Update Job Post](#patch-update-job-post)     |
 | May 15, 2019 5:00:00PM  | Added ability to change prospect pool and stage via [PATCH: Update Application](#patch-update-application)     |
 | May 7, 2019 3:30:00 PM  | Added [Demographic Data endpoints](#demographic-data)                                                          |
 | Apr 8 , 2019 04:00:00PM | Added `interviewer` to [Scorecard object](#the-scorecard-object)                                               |
